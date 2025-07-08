@@ -26,8 +26,8 @@
 
 ## 📬 Контакты службы поддержки
 
-- 📧 Email: [budanov23rus@gmail.com](mailto:budanov23rus@gmail.com)
-- 🐞 Сообщить об ошибке: [[https://github.com/your-username/tyani-bilet-support/issues](https://github.com/your-username/tyani-bilet-support/issues)](https://github.com/AlbertBudanov/tyani-bilet-support/issues/new)
+- 📧 Email: mailto:budanov23rus@gmail.com
+- 🐞 Сообщить об ошибке: https://github.com/your-username/tyani-bilet-support/issues)](https://github.com/AlbertBudanov/tyani-bilet-support/issues/new
 
 ---
 
